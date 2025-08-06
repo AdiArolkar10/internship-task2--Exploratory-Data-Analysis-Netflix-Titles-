@@ -1,3 +1,6 @@
+📌 Note: This task is part of a structured internship to reinforce basic ML skills. It’s not meant to reflect my current skill level or portfolio quality.
+
+
 # 📊 Netflix Dataset EDA
 
 This project performs **Exploratory Data Analysis (EDA)** on the **Netflix Movies and TV Shows dataset**, focusing on content distribution, missing data handling, and trends over time.
